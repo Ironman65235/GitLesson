@@ -13,4 +13,5 @@ let iron=235;
 ## git commit -m"Я добавил новые файлы"
 ## git push
 
-##вместо git add index.html можно написать git add -A
+##вместо git add index.html можно написать git add -A 
+
